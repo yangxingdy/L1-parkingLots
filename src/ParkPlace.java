@@ -28,4 +28,9 @@ public class ParkPlace {
         }
         throw new NoCarException("没有此车 请拨打110！");
     }
+
+    public Integer GetMaxParkingNum ()
+    {
+        return maxParkingNum;
+    }
 }
