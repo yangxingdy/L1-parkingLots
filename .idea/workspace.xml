@@ -1,13 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf7eb736-b5bf-436e-93ac-39bb4efe32b8" name="Default" comment="Add super parking boy">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Parkplace/FirstAvailableParkingLotChooser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Parkplace/MaxAvailableParkingLotChooser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Parkplace/MaxVacancyRateParkingLotChooser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Parkplace/ParkingBoy.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Parkplace/ParkingLotChooser.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Parkplace/ParkingManager.class" />
+    <list default="true" id="bf7eb736-b5bf-436e-93ac-39bb4efe32b8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Parkplace.iws" />
@@ -87,7 +81,7 @@
       <file leaf-file-name="MaxVacancyRateParkingLotChooser.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/MaxVacancyRateParkingLotChooser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="16" column="38" selection-start="530" selection-end="530" vertical-scroll-proportion="0.71823204">
+            <state line="18" column="94" selection-start="693" selection-end="693" vertical-scroll-proportion="0.8232044">
               <folding />
             </state>
           </provider>
@@ -544,14 +538,18 @@
       <created>1355499788308</created>
       <updated>1355499788308</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Add super parking boy">
+      <created>1355499916285</created>
+      <updated>1355499916285</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="0" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3284553" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3284553" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -702,7 +700,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MaxVacancyRateParkingLotChooser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="16" column="38" selection-start="530" selection-end="530" vertical-scroll-proportion="0.71823204">
+        <state line="18" column="94" selection-start="693" selection-end="693" vertical-scroll-proportion="0.8232044">
           <folding />
         </state>
       </provider>
