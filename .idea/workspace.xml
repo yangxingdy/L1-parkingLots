@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bf7eb736-b5bf-436e-93ac-39bb4efe32b8" name="Default" comment="">
+    <list default="true" id="bf7eb736-b5bf-436e-93ac-39bb4efe32b8" name="Default" comment="Add super parking boy">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Parkplace/FirstAvailableParkingLotChooser.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Parkplace/MaxAvailableParkingLotChooser.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Parkplace/MaxVacancyRateParkingLotChooser.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Parkplace/ParkingBoy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Parkplace/ParkingLotChooser.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/out/production/Parkplace/ParkingManager.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Parkplace.iws" />
@@ -534,7 +540,11 @@
       <created>1355499737055</created>
       <updated>1355499737055</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Add super parking boy">
+      <created>1355499788308</created>
+      <updated>1355499788308</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -588,7 +598,7 @@
     <option name="ENABLE_BACKGROUND_PROCESSES" value="false" />
     <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
     <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
-    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="false" />
     <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
     <option name="SHORT_DIFF_HORISONTALLY" value="true" />
     <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
