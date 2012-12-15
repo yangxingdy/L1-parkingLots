@@ -8,9 +8,10 @@ import java.util.ArrayList;
  * To change this template use File | Settings | File Templates.
  */
 public class ParkingManager extends ParkingBoy{
-    private ArrayList<ParkPlace> parkingBoy;
+    private ArrayList<ParkingBoy> parkingBoys;
 
-    public ParkingManager(ArrayList<ParkPlace> parkPlaces, ParkingLotChooser parkingLotChooser) {
+    public ParkingManager(ArrayList<ParkPlace> parkPlaces,ArrayList<ParkingBoy> parkingBoys, ParkingLotChooser parkingLotChooser) {
         super(parkPlaces, parkingLotChooser);
+        this.parkingBoys = parkingBoys;
     }
 }

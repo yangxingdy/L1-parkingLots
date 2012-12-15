@@ -3,6 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="bf7eb736-b5bf-436e-93ac-39bb4efe32b8" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test/parkPlaceTest.java" afterPath="$PROJECT_DIR$/Test/parkPlaceTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ParkingManager.java" afterPath="$PROJECT_DIR$/src/ParkingManager.java" />
     </list>
     <ignored path="Parkplace.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -63,11 +65,23 @@
       <file leaf-file-name="parkPlaceTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test/parkPlaceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="132" column="35" selection-start="4454" selection-end="4454" vertical-scroll-proportion="-0.32967034">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
               <folding>
                 <element signature="imports" expanded="true" />
-                <element signature="e#4955#4966#0" expanded="true" />
+                <element signature="e#4965#4976#0" expanded="true" />
+                <element signature="e#5177#5189#0" expanded="true" />
+                <element signature="e#6172#6183#0" expanded="true" />
+                <element signature="e#6688#6700#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParkingManager.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ParkingManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="10" column="35" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
+              <folding />
             </state>
           </provider>
         </entry>
@@ -111,7 +125,7 @@
       <file leaf-file-name="ParkingBoy.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ParkingBoy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="18" column="33" selection-start="615" selection-end="618" vertical-scroll-proportion="0.0">
+            <state line="10" column="43" selection-start="244" selection-end="254" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -121,15 +135,6 @@
         <entry file="file://$PROJECT_DIR$/src/Car.java">
           <provider selected="true" editor-type-id="text-editor">
             <state line="7" column="19" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="MaxVacancyRateParkingLotChooser.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MaxVacancyRateParkingLotChooser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="22" column="60" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -175,11 +180,11 @@
         <option value="$PROJECT_DIR$/src/FirstAvailableParkingLotChooser.java" />
         <option value="$PROJECT_DIR$/src/MaxAvailableParkingLotChooser.java" />
         <option value="$PROJECT_DIR$/src/MaxVacancyRateParkingLotChooser.java" />
-        <option value="$PROJECT_DIR$/src/ParkingManager.java" />
         <option value="$PROJECT_DIR$/src/RandomParkingLotChooser.java" />
         <option value="$PROJECT_DIR$/src/ParkingBoy.java" />
         <option value="$PROJECT_DIR$/src/Ticket.java" />
         <option value="$PROJECT_DIR$/src/ParkPlace.java" />
+        <option value="$PROJECT_DIR$/src/ParkingManager.java" />
         <option value="$PROJECT_DIR$/Test/parkPlaceTest.java" />
       </list>
     </option>
@@ -594,7 +599,11 @@
       <created>1355584979044</created>
       <updated>1355584979044</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Test case passed : Parking manager parks car randomly.">
+      <created>1355585071669</created>
+      <updated>1355585071669</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -697,13 +706,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ParkingManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="21" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/MaxVacancyRateParkingLotChooser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="22" column="60" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0">
@@ -739,13 +741,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/ParkingBoy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="18" column="33" selection-start="615" selection-end="618" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ParkPlace.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="23" column="47" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0">
@@ -760,6 +755,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ParkingBoy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="43" selection-start="244" selection-end="254" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/RandomParkingLotChooser.java">
       <provider selected="true" editor-type-id="text-editor">
         <state line="6" column="36" selection-start="165" selection-end="188" vertical-scroll-proportion="0.0">
@@ -767,12 +769,22 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/ParkingManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="10" column="35" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Test/parkPlaceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="132" column="35" selection-start="4454" selection-end="4454" vertical-scroll-proportion="-0.32967034">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4955#4966#0" expanded="true" />
+            <element signature="e#4965#4976#0" expanded="true" />
+            <element signature="e#5177#5189#0" expanded="true" />
+            <element signature="e#6172#6183#0" expanded="true" />
+            <element signature="e#6688#6700#0" expanded="true" />
           </folding>
         </state>
       </provider>
