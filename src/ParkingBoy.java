@@ -41,11 +41,16 @@ public class ParkingBoy {
         return null;*/
     }
 
-    public Car GetParkedCar(Ticket ticket) {
-
+    public Car GetParkedCar(Ticket ticket)throws NoCarException {
+        Car car;
         for (int i=0; i< parkPlaces.size(); i++){
-                return parkPlaces.get(i).GetParkedCar(ticket);
+            car = parkPlaces.get(i).GetParkedCar(ticket);
+            if(null != car)
+            {
+                return car;
+            }
+            continue;
         }
-        return null;
+        throw new NoCarException("没有此车 请拨打110！");
     }
 }
