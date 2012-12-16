@@ -8,8 +8,10 @@ import java.util.ArrayList;
  * To change this template use File | Settings | File Templates.
  */
 public class ParkingBoy {
-    private ArrayList<ParkPlace> parkPlaces;
+    protected ArrayList<ParkPlace> parkPlaces;
     private final ParkingLotChooser parkingLotChooser;
+    private int iTotalAvailableNum;
+    private int iTotalParkedNum;
     public ParkingBoy(ArrayList<ParkPlace> parkPlaces, ParkingLotChooser parkingLotChooser) {
         //To change body of created methods use File | Settings | File Templates.
         this.parkPlaces =  parkPlaces;
@@ -17,28 +19,7 @@ public class ParkingBoy {
     }
 
     public Ticket parking(Car car) {
-
         return parkingLotChooser.getAvailablePark(parkPlaces).parking(car);
-        /*if (true != smartBoy){
-            for (int i=0; i< parkPlaces.size(); i++){
-                if (parkPlaces.get(i).GetAvailableNum() > 0) {
-                    return parkPlaces.get(i).parking(car);
-                }
-            }
-        }
-        else{
-            int maxAvailableNum=0;
-            int maxAvailableParkIndex=0;
-            for (int i=0; i< parkPlaces.size(); i++){
-                if (parkPlaces.get(i).GetAvailableNum() >  maxAvailableNum) {
-                    maxAvailableParkIndex = i;
-                    maxAvailableNum = parkPlaces.get(i).GetAvailableNum();
-                }
-            }
-
-            return parkPlaces.get(maxAvailableParkIndex).parking(car);
-        }
-        return null;*/
     }
 
     public Car GetParkedCar(Ticket ticket)throws NoCarException {
@@ -52,5 +33,27 @@ public class ParkingBoy {
             continue;
         }
         throw new NoCarException("没有此车 请拨打110！");
+    }
+
+    public void ShowParkingLotInfoFromParkingBoy()
+    {
+
+        for (int i=0; i< parkPlaces.size(); i++)
+        {
+            parkPlaces.get(i).ShowParkPlaceInfo(true);
+            iTotalParkedNum +=  parkPlaces.get(i).GetParkedNum();
+            iTotalAvailableNum += parkPlaces.get(i).GetAvailableNum();
+        }
+        System.out.println("     Total车位数:"+iTotalParkedNum);
+        System.out.println("     Total空位数:"+iTotalAvailableNum);
+    }
+    public Integer GetParkedNum()
+    {
+        return iTotalParkedNum;
+    }
+
+    public Integer GetAvailableNum()
+    {
+        return iTotalAvailableNum;
     }
 }

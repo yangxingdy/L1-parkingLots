@@ -130,7 +130,7 @@ public class parkPlaceTest {
     }
 
      @Test
-  public void parkingManager_ShouldParkCar(){
+   public void parkingManager_ShouldParkCar(){
         Car car1=new Car();
         Car car2=new Car();
         int maxParkingNum1 = 20;
@@ -160,6 +160,7 @@ public class parkPlaceTest {
         Assert.assertSame(car2, parkingManager.GetParkedCar(ticket2));
     }
 
+    @Test
     public void parkingManager_ShouldManageParkBoy(){
         Car car1=new Car();
 
@@ -190,6 +191,9 @@ public class parkPlaceTest {
         parkingBoys.add(superParkingBoy);
 
         ParkingManager parkingManager =new ParkingManager(parkPlaces,parkingBoys, new RandomParkingLotChooser());
+
+        Ticket ticket1 = parkingManager.GetParkingBoy(1).parking(car1);
+        Assert.assertSame(car1, parkingManager.GetParkedCar(ticket1));
 
     }
 }

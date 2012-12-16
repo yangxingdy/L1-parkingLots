@@ -37,4 +37,29 @@ public class ParkPlace {
     {
         return maxParkingNum;
     }
+
+    public Integer GetParkedNum ()
+    {
+        return parkedCarList.size();
+    }
+
+    public void ShowParkPlaceInfo(Boolean boFromBoyList)
+    {
+        if (!boFromBoyList)
+        {
+            System.out.println("停车场编号:" + parkPlaceIndex);
+            System.out.print("    ");
+            System.out.println("车位数:" + parkedCarList.size());
+            System.out.print("    ");
+            System.out.println("空位数:" + GetAvailableNum());
+        }
+        else
+        {
+            System.out.println("    停车场编号:" + parkPlaceIndex);
+            System.out.print("        ");
+            System.out.println("车位数:" + parkedCarList.size());
+            System.out.print("        ");
+            System.out.println("空位数:" + GetAvailableNum());
+        }
+    }
 }

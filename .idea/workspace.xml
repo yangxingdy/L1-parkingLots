@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf7eb736-b5bf-436e-93ac-39bb4efe32b8" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/ParkingBoyTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/ParkingDirectorTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ParkingDirector.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test/parkPlaceTest.java" afterPath="$PROJECT_DIR$/Test/parkPlaceTest.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ParkPlace.java" afterPath="$PROJECT_DIR$/src/ParkPlace.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ParkingBoy.java" afterPath="$PROJECT_DIR$/src/ParkingBoy.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ParkingManager.java" afterPath="$PROJECT_DIR$/src/ParkingManager.java" />
     </list>
     <ignored path="Parkplace.iws" />
@@ -62,43 +67,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="parkPlaceTest.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/Test/parkPlaceTest.java">
+      <file leaf-file-name="ParkingBoy.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ParkingBoy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#4965#4976#0" expanded="true" />
-                <element signature="e#5177#5189#0" expanded="true" />
-                <element signature="e#6172#6183#0" expanded="true" />
-                <element signature="e#6688#6700#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ParkingManager.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ParkingManager.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="35" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FirstAvailableParkingLotChooser.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/FirstAvailableParkingLotChooser.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="62" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Ticket.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Ticket.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="10" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
+            <state line="41" column="63" selection-start="1256" selection-end="1256" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -107,7 +79,34 @@
       <file leaf-file-name="RandomParkingLotChooser.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/RandomParkingLotChooser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="6" column="36" selection-start="165" selection-end="188" vertical-scroll-proportion="0.0">
+            <state line="6" column="13" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MaxVacancyRateParkingLotChooser.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/MaxVacancyRateParkingLotChooser.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="9" column="38" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParkPlace.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ParkPlace.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="63" column="44" selection-start="1836" selection-end="1836" vertical-scroll-proportion="1.1509434">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ParkingManager.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ParkingManager.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="37" column="53" selection-start="1256" selection-end="1256" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -116,43 +115,52 @@
       <file leaf-file-name="ParkingLotChooser.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/ParkingLotChooser.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="12" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0">
+            <state line="9" column="17" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ParkingBoy.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ParkingBoy.java">
+      <file leaf-file-name="ParkingDirectorTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/ParkingDirectorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="43" selection-start="244" selection-end="254" vertical-scroll-proportion="0.0">
+            <state line="64" column="35" selection-start="2471" selection-end="2471" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="e#1192#1203#0" expanded="true" />
+                <element signature="e#1335#1346#0" expanded="true" />
+                <element signature="e#1478#1489#0" expanded="true" />
+                <element signature="e#1627#1638#0" expanded="true" />
+                <element signature="e#2047#2059#0" expanded="true" />
+                <element signature="e#2370#2386#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="parkPlaceTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/parkPlaceTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="157" column="43" selection-start="5463" selection-end="5463" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Car.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Car.java">
+      <file leaf-file-name="ParkingBoyTest.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Test/ParkingBoyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="7" column="19" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0">
-              <folding />
+            <state line="49" column="61" selection-start="1746" selection-end="1746" vertical-scroll-proportion="0.0">
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MaxAvailableParkingLotChooser.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/MaxAvailableParkingLotChooser.java">
+      <file leaf-file-name="ParkingDirector.java" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ParkingDirector.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="20" column="65" selection-start="677" selection-end="677" vertical-scroll-proportion="0.0">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="ParkPlace.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ParkPlace.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="23" column="47" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0">
+            <state line="22" column="74" selection-start="702" selection-end="741" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -181,11 +189,14 @@
         <option value="$PROJECT_DIR$/src/MaxAvailableParkingLotChooser.java" />
         <option value="$PROJECT_DIR$/src/MaxVacancyRateParkingLotChooser.java" />
         <option value="$PROJECT_DIR$/src/RandomParkingLotChooser.java" />
-        <option value="$PROJECT_DIR$/src/ParkingBoy.java" />
         <option value="$PROJECT_DIR$/src/Ticket.java" />
-        <option value="$PROJECT_DIR$/src/ParkPlace.java" />
-        <option value="$PROJECT_DIR$/src/ParkingManager.java" />
         <option value="$PROJECT_DIR$/Test/parkPlaceTest.java" />
+        <option value="$PROJECT_DIR$/Test/ParkingBoyTest.java" />
+        <option value="$PROJECT_DIR$/Test/ParkingDirectorTest.java" />
+        <option value="$PROJECT_DIR$/src/ParkingDirector.java" />
+        <option value="$PROJECT_DIR$/src/ParkingBoy.java" />
+        <option value="$PROJECT_DIR$/src/ParkingManager.java" />
+        <option value="$PROJECT_DIR$/src/ParkPlace.java" />
       </list>
     </option>
   </component>
@@ -314,8 +325,10 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="last_directory_selection" value="$PROJECT_DIR$/Test" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="GoToFile.includeJavaFiles" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit3" />
     <property name="OverrideImplement.combined" value="true" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="options.splitter.main.proportions" value="0.3" />
@@ -326,13 +339,17 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="MemberChooser.copyJavadoc" value="false" />
     <property name="GoToClass.toSaveIncludeLibraries" value="false" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.includeInheritedMembers" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="GoToClass.includeLibraries" value="false" />
-    <property name="dynamic.classpath" value="false" />
-    <property name="options.splitter.details.proportions" value="0.2" />
     <property name="options.searchVisible" value="true" />
+    <property name="options.splitter.details.proportions" value="0.2" />
+    <property name="dynamic.classpath" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="" />
     </key>
@@ -340,7 +357,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.parkPlaceTest.parkingManager_ShouldParkCar">
+  <component name="RunManager" selected="JUnit.ParkingDirectorTest.parkingDirector_ShouldShowParkingLotInfo">
     <configuration default="false" name="parkPlaceTest" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="Parkplace" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -419,6 +436,62 @@
       <ConfigurationWrapper RunnerId="Run" />
       <method />
     </configuration>
+    <configuration default="false" name="ParkingDirectorTest.parkingDirector_ShouldShowParkingLotInfo" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="Parkplace" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParkingDirectorTest" />
+      <option name="METHOD_NAME" value="parkingDirector_ShouldShowParkingLotInfo" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ParkingBoyTest.parkingBoy_ShouldShowParkingLotInfo" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="Parkplace" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParkingBoyTest" />
+      <option name="METHOD_NAME" value="parkingBoy_ShouldShowParkingLotInfo" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Debug">
+        <option name="DEBUG_PORT" value="" />
+        <option name="TRANSPORT" value="0" />
+        <option name="LOCAL" value="true" />
+      </RunnerSettings>
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Debug" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
       <module name="" />
       <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m" />
@@ -439,24 +512,6 @@
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
-        <option name="Maven.BeforeRunTask" enabled="false" />
-      </method>
-    </configuration>
-    <configuration default="true" type="Applet" factoryName="Applet">
-      <module name="" />
-      <option name="MAIN_CLASS_NAME" />
-      <option name="HTML_FILE_NAME" />
-      <option name="HTML_USED" value="false" />
-      <option name="WIDTH" value="400" />
-      <option name="HEIGHT" value="300" />
-      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
-      <option name="VM_PARAMETERS" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <method>
-        <option name="AntTarget" enabled="false" />
-        <option name="BuildArtifacts" enabled="false" />
-        <option name="Make" enabled="true" />
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
@@ -485,6 +540,24 @@
       <envs />
       <properties />
       <listeners />
+      <method>
+        <option name="AntTarget" enabled="false" />
+        <option name="BuildArtifacts" enabled="false" />
+        <option name="Make" enabled="true" />
+        <option name="Maven.BeforeRunTask" enabled="false" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <module name="" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="HTML_FILE_NAME" />
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <option name="VM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
       <method>
         <option name="AntTarget" enabled="false" />
         <option name="BuildArtifacts" enabled="false" />
@@ -536,10 +609,12 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <list size="3">
+    <list size="5">
       <item index="0" class="java.lang.String" itemvalue="JUnit.parkPlaceTest" />
       <item index="1" class="java.lang.String" itemvalue="JUnit.parkPlaceTest.parkPlace_GetCar_NoThisCar" />
       <item index="2" class="java.lang.String" itemvalue="JUnit.parkPlaceTest.parkingManager_ShouldParkCar" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ParkingDirectorTest.parkingDirector_ShouldShowParkingLotInfo" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.ParkingBoyTest.parkingBoy_ShouldShowParkingLotInfo" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -603,8 +678,32 @@
       <created>1355585071669</created>
       <updated>1355585071669</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Add Management in Parking manager for parkingBoys">
+      <created>1355587423276</created>
+      <updated>1355587423276</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
+  </component>
+  <component name="TodoView" selected-index="0">
+    <todo-panel id="selected-file">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="default-changelist">
+      <are-packages-shown value="false" />
+      <are-modules-shown value="false" />
+      <flatten-packages value="false" />
+      <is-autoscroll-to-source value="false" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="0" />
@@ -614,17 +713,17 @@
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4601626" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.19186991" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20877336" sideWeight="0.67479676" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2813008" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39674798" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -669,7 +768,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Test case passed : Parking manager parks car randomly." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add Management in Parking manager for parkingBoys" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -685,6 +784,7 @@
     <MESSAGE value="Add super parking boy" />
     <MESSAGE value="Add ParkingManager &amp; RandomParkingLotChooser" />
     <MESSAGE value="Test case passed : Parking manager parks car randomly." />
+    <MESSAGE value="Add Management in Parking manager for parkingBoys" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -694,98 +794,128 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/NoPlaceException.java">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/runners/model/RunnerBuilder.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="13" selection-start="167" selection-end="167" vertical-scroll-proportion="0.0" />
+        <state line="23" column="0" selection-start="1281" selection-end="1281" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/NoCarException.java">
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="0" selection-start="246" selection-end="246" vertical-scroll-proportion="0.0">
+        <state line="11" column="40" selection-start="397" selection-end="397" vertical-scroll-proportion="-4.28">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/runners/model/FrameworkMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="28" selection-start="511" selection-end="511" vertical-scroll-proportion="-2.84">
+          <folding>
+            <element signature="e#0#1777#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/internal/runners/statements/InvokeMethod.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="16" selection-start="492" selection-end="492" vertical-scroll-proportion="-4.28">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/runners/ParentRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="43" column="25" selection-start="2461" selection-end="2461" vertical-scroll-proportion="-3.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/junit-4.10.jar!/org/junit/runners/BlockJUnit4ClassRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#0#4931#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/RandomParkingLotChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="13" selection-start="165" selection-end="165" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/MaxVacancyRateParkingLotChooser.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="60" selection-start="764" selection-end="764" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ParkingLotChooser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="12" selection-start="228" selection-end="228" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/FirstAvailableParkingLotChooser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="62" selection-start="449" selection-end="449" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/MaxAvailableParkingLotChooser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="20" column="65" selection-start="677" selection-end="677" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Car.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="7" column="19" selection-start="171" selection-end="171" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ParkPlace.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="23" column="47" selection-start="754" selection-end="754" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Ticket.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="10" selection-start="185" selection-end="185" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ParkingBoy.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="43" selection-start="244" selection-end="254" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/RandomParkingLotChooser.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="6" column="36" selection-start="165" selection-end="188" vertical-scroll-proportion="0.0">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ParkingManager.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="35" selection-start="270" selection-end="270" vertical-scroll-proportion="0.0">
+        <state line="9" column="38" selection-start="220" selection-end="220" vertical-scroll-proportion="0.0">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/parkPlaceTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+        <state line="157" column="43" selection-start="5463" selection-end="5463" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/ParkingBoyTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="61" selection-start="1746" selection-end="1746" vertical-scroll-proportion="0.0">
           <folding>
             <element signature="imports" expanded="true" />
-            <element signature="e#4965#4976#0" expanded="true" />
-            <element signature="e#5177#5189#0" expanded="true" />
-            <element signature="e#6172#6183#0" expanded="true" />
-            <element signature="e#6688#6700#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/ParkingDirectorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="64" column="35" selection-start="2471" selection-end="2471" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#1192#1203#0" expanded="true" />
+            <element signature="e#1335#1346#0" expanded="true" />
+            <element signature="e#1478#1489#0" expanded="true" />
+            <element signature="e#1627#1638#0" expanded="true" />
+            <element signature="e#2047#2059#0" expanded="true" />
+            <element signature="e#2370#2386#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ParkingDirector.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="22" column="74" selection-start="702" selection-end="741" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ParkingBoy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="41" column="63" selection-start="1256" selection-end="1256" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ParkingLotChooser.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="9" column="17" selection-start="196" selection-end="196" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ParkingManager.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="37" column="53" selection-start="1256" selection-end="1256" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ParkPlace.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="63" column="44" selection-start="1836" selection-end="1836" vertical-scroll-proportion="1.1509434">
+          <folding />
         </state>
       </provider>
     </entry>
