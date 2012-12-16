@@ -129,8 +129,8 @@ public class parkPlaceTest {
         Assert.assertEquals(Integer.valueOf(maxParkingNum2-2), parPlace2.GetAvailableNum());
     }
 
-     @Test
-   public void parkingManager_ShouldParkCar(){
+     /*@Test
+      public void parkingManager_ShouldParkCar(){
         Car car1=new Car();
         Car car2=new Car();
         int maxParkingNum1 = 20;
@@ -195,5 +195,5 @@ public class parkPlaceTest {
         Ticket ticket1 = parkingManager.GetParkingBoy(1).parking(car1);
         Assert.assertSame(car1, parkingManager.GetParkedCar(ticket1));
 
-    }
+    }*/
 }
