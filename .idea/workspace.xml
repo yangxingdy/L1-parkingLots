@@ -2,14 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf7eb736-b5bf-436e-93ac-39bb4efe32b8" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/ParkingBoyTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Test/ParkingDirectorTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ParkingDirector.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Parkplace/ParkPlace.class" afterPath="$PROJECT_DIR$/out/production/Parkplace/ParkPlace.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Parkplace/ParkingBoy.class" afterPath="$PROJECT_DIR$/out/production/Parkplace/ParkingBoy.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Parkplace/ParkingManager.class" afterPath="$PROJECT_DIR$/out/production/Parkplace/ParkingManager.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Parkplace/Ticket.class" afterPath="$PROJECT_DIR$/out/production/Parkplace/Ticket.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/Parkplace/parkPlaceTest.class" afterPath="$PROJECT_DIR$/out/test/Parkplace/parkPlaceTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Test/parkPlaceTest.java" afterPath="$PROJECT_DIR$/Test/parkPlaceTest.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ParkPlace.java" afterPath="$PROJECT_DIR$/src/ParkPlace.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ParkingBoy.java" afterPath="$PROJECT_DIR$/src/ParkingBoy.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/ParkingManager.java" afterPath="$PROJECT_DIR$/src/ParkingManager.java" />
     </list>
     <ignored path="Parkplace.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -682,7 +680,11 @@
       <created>1355587423276</created>
       <updated>1355587423276</updated>
     </task>
-    <option name="localTasksCounter" value="10" />
+    <task id="LOCAL-00010" summary="Add Management in Parking manager for parkingBoys">
+      <created>1355677940288</created>
+      <updated>1355677940288</updated>
+    </task>
+    <option name="localTasksCounter" value="11" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
