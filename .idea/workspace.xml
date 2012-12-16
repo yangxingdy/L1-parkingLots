@@ -2,11 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bf7eb736-b5bf-436e-93ac-39bb4efe32b8" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Parkplace/ParkPlace.class" afterPath="$PROJECT_DIR$/out/production/Parkplace/ParkPlace.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Parkplace/ParkingBoy.class" afterPath="$PROJECT_DIR$/out/production/Parkplace/ParkingBoy.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Parkplace/ParkingManager.class" afterPath="$PROJECT_DIR$/out/production/Parkplace/ParkingManager.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Parkplace/Ticket.class" afterPath="$PROJECT_DIR$/out/production/Parkplace/Ticket.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/test/Parkplace/parkPlaceTest.class" afterPath="$PROJECT_DIR$/out/test/Parkplace/parkPlaceTest.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Parkplace.iws" />
@@ -684,7 +679,11 @@
       <created>1355677940288</created>
       <updated>1355677940288</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Add parkingDirector and report">
+      <created>1355678093273</created>
+      <updated>1355678093273</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -770,7 +769,7 @@
     <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add Management in Parking manager for parkingBoys" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add parkingDirector and report" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -787,6 +786,7 @@
     <MESSAGE value="Add ParkingManager &amp; RandomParkingLotChooser" />
     <MESSAGE value="Test case passed : Parking manager parks car randomly." />
     <MESSAGE value="Add Management in Parking manager for parkingBoys" />
+    <MESSAGE value="Add parkingDirector and report" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
