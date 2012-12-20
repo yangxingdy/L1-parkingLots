@@ -11,3 +11,5 @@ parkDirector
 4.parkingDirector can show parkingLots which are managed by all the managers and parkingboys.
   4.1 parkingManager shows parkingLots which are managed by parkingBoys.
   4.2 parkingManager shows parkingLots which are managed by himself.
+
+5.Add gradle, 
