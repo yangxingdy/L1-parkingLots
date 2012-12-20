@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" hostname="YangXing-PC" name="ParkingDirectorTest" tests="1" time="0.031" timestamp="2012-12-20T18:02:51">
+  <properties />
+  <testcase classname="ParkingDirectorTest" name="parkingDirector_ShouldShowParkingLotInfo" time="0.023" />
+  <system-out><![CDATA[停车场编号:7
+    车位数:1
+    空位数:19
+停车仔编号:0
+    停车场编号:1
+        车位数:1
+        空位数:9
+    停车场编号:2
+        车位数:0
+        空位数:10
+     Total车位数:1
+     Total空位数:19
+停车仔编号:1
+    停车场编号:3
+        车位数:1
+        空位数:9
+    停车场编号:4
+        车位数:1
+        空位数:9
+     Total车位数:2
+     Total空位数:18
+停车仔编号:2
+    停车场编号:5
+        车位数:1
+        空位数:9
+    停车场编号:6
+        车位数:0
+        空位数:10
+     Total车位数:1
+     Total空位数:19
+Total车位数:5
+Total空位数:75
+]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

@@ -1,8 +1,84 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="3117c5fb-0280-4b2a-ab3c-0d6dab24a290" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+    <list default="true" id="3117c5fb-0280-4b2a-ab3c-0d6dab24a290" name="Default" comment="1. Rename the project.&#10;2. Add gradle">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/1.3/taskArtifacts/cache.properties.lock" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/1.3/taskArtifacts/fileHashes.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/1.3/taskArtifacts/fileSnapshots.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/1.3/taskArtifacts/outputFileStates.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/1.3/taskArtifacts/taskArtifacts.bin" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/Car.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/FirstAvailableParkingLotChooser.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/MaxAvailableParkingLotChooser.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/MaxVacancyRateParkingLotChooser.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/NoCarException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/NoPlaceException.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/ParkPlace.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/ParkingBoy.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/ParkingDirector.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/ParkingLotChooser.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/ParkingManager.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/RandomParkingLotChooser.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/Ticket.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/test/ParkingBoyTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/test/ParkingDirectorTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/test/ParkingManagerTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/test/parkPlaceTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/libs/parkingLotsModel-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/css3-pie-1.0beta3.htc" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\L1\Car.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\L1\FirstAvailableParkingLotChooser.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\L1\MaxAvailableParkingLotChooser.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\L1\MaxVacancyRateParkingLotChooser.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\L1\NoCarException.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\L1\NoPlaceException.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\L1\ParkPlace.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\L1\ParkingBoy.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\L1\ParkingBoyTest.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\L1\ParkingDirector.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\L1\ParkingDirectorTest.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\L1\ParkingLotChooser.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\L1\ParkingManager.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\L1\ParkingManagerTest.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\L1\RandomParkingLotChooser.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\L1\Ticket.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\L1\parkPlaceTest.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\parkingLotsModel\Car.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\parkingLotsModel\FirstAvailableParkingLotChooser.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\parkingLotsModel\MaxAvailableParkingLotChooser.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\parkingLotsModel\MaxVacancyRateParkingLotChooser.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\parkingLotsModel\NoCarException.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\parkingLotsModel\NoPlaceException.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\parkingLotsModel\ParkPlace.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\parkingLotsModel\ParkingBoy.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\parkingLotsModel\ParkingBoyTest.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\parkingLotsModel\ParkingDirector.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\parkingLotsModel\ParkingDirectorTest.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\parkingLotsModel\ParkingLotChooser.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\parkingLotsModel\ParkingManager.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\parkingLotsModel\ParkingManagerTest.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\parkingLotsModel\RandomParkingLotChooser.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\parkingLotsModel\Ticket.class" />
+      <change type="NEW" beforePath="" afterPath="C:\GCT\YANGXING\parkingLotsModel\out\production\parkingLotsModel\parkPlaceTest.class" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/1.3/taskArtifacts/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/Yang_Xing.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/ParkingBoyTest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/ParkingDirectorTest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/ParkingManagerTest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/base-style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/default-package.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/parkPlaceTest.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/report.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/style.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/TEST-ParkingBoyTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/TEST-ParkingDirectorTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/TEST-ParkingManagerTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/TEST-parkPlaceTest.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp/jar/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/parkingLotsModel.iml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ParkingLotsModel.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="parkingLotsModel.iws" />
@@ -64,7 +140,7 @@
       <file leaf-file-name="parkPlaceTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test/parkPlaceTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="5" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0">
+            <state line="12" column="30" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -73,7 +149,7 @@
       <file leaf-file-name="ParkingDirectorTest.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Test/ParkingDirectorTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="50" column="38" selection-start="1684" selection-end="1684" vertical-scroll-proportion="1.2076272">
+            <state line="49" column="17" selection-start="1659" selection-end="1659" vertical-scroll-proportion="0.7492958">
               <folding />
             </state>
           </provider>
@@ -82,7 +158,7 @@
       <file leaf-file-name="ParkingManagerTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test/ParkingManagerTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="20" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0">
+            <state line="15" column="64" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -91,7 +167,7 @@
       <file leaf-file-name="ParkingBoyTest.java" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Test/ParkingBoyTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="12" column="13" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0">
+            <state line="25" column="29" selection-start="613" selection-end="613" vertical-scroll-proportion="0.0">
               <folding />
             </state>
           </provider>
@@ -212,51 +288,7 @@
       <recent name="C:\GCT\YANGXING\L1" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.ParkingDirectorTest.parkingDirector_ShouldShowParkingLotInfo">
-    <configuration default="false" name="parkPlaceTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <module name="L1" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="parkPlaceTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
-    <configuration default="false" name="ParkingDirectorTest" type="JUnit" factoryName="JUnit" temporary="true">
-      <module name="L1" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ParkingDirectorTest" />
-      <option name="METHOD_NAME" />
-      <option name="TEST_OBJECT" value="class" />
-      <option name="VM_PARAMETERS" value="-ea" />
-      <option name="PARAMETERS" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <option name="TEST_SEARCH_SCOPE">
-        <value defaultName="moduleWithDependencies" />
-      </option>
-      <envs />
-      <patterns />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
-      <method />
-    </configuration>
+  <component name="RunManager" selected="JUnit.parkPlaceTest">
     <configuration default="false" name="ParkingDirectorTest.parkingDirector_ShouldShowParkingLotInfo" type="JUnit" factoryName="JUnit" temporary="true">
       <module name="parkingLotsModel" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -265,6 +297,94 @@
       <option name="MAIN_CLASS_NAME" value="ParkingDirectorTest" />
       <option name="METHOD_NAME" value="parkingDirector_ShouldShowParkingLotInfo" />
       <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ParkingManagerTest.parkingManager_ShouldParkCar" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="parkingLotsModel" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParkingManagerTest" />
+      <option name="METHOD_NAME" value="parkingManager_ShouldParkCar" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ParkingBoyTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="parkingLotsModel" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParkingBoyTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="ParkingManagerTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="parkingLotsModel" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ParkingManagerTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="moduleWithDependencies" />
+      </option>
+      <envs />
+      <patterns />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method />
+    </configuration>
+    <configuration default="false" name="parkPlaceTest" type="JUnit" factoryName="JUnit" temporary="true">
+      <module name="parkingLotsModel" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="parkPlaceTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" value="-ea" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -396,10 +516,12 @@
         <option name="Maven.BeforeRunTask" enabled="false" />
       </method>
     </configuration>
-    <list size="3">
-      <item index="0" class="java.lang.String" itemvalue="JUnit.parkPlaceTest" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.ParkingDirectorTest" />
-      <item index="2" class="java.lang.String" itemvalue="JUnit.ParkingDirectorTest.parkingDirector_ShouldShowParkingLotInfo" />
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="JUnit.ParkingDirectorTest.parkingDirector_ShouldShowParkingLotInfo" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ParkingManagerTest.parkingManager_ShouldParkCar" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.ParkingBoyTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.ParkingManagerTest" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.parkPlaceTest" />
     </list>
     <configuration name="&lt;template&gt;" type="WebApp" default="true" selected="false">
       <Host>localhost</Host>
@@ -435,14 +557,18 @@
       <created>1356027503032</created>
       <updated>1356027503032</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="1. Rename the project.&#10;2. Add gradle">
+      <created>1356027639475</created>
+      <updated>1356027639475</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1296" height="776" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.5707317" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.37723577" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="JetGradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -455,7 +581,7 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24939074" sideWeight="0.4292683" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24939074" sideWeight="0.6227642" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3284553" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -524,24 +650,30 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/Test/parkPlaceTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="5" selection-start="266" selection-end="266" vertical-scroll-proportion="0.0" />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Test/ParkingManagerTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="20" selection-start="288" selection-end="288" vertical-scroll-proportion="0.0" />
+        <state line="15" column="64" selection-start="358" selection-end="358" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Test/parkPlaceTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="12" column="30" selection-start="259" selection-end="259" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/ParkingBoyTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="12" column="13" selection-start="256" selection-end="256" vertical-scroll-proportion="0.0" />
+        <state line="25" column="29" selection-start="613" selection-end="613" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Test/ParkingDirectorTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="38" selection-start="1684" selection-end="1684" vertical-scroll-proportion="1.2076272">
+        <state line="49" column="17" selection-start="1659" selection-end="1659" vertical-scroll-proportion="0.7492958">
           <folding />
         </state>
       </provider>

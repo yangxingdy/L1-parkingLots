@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite errors="0" failures="0" hostname="YangXing-PC" name="parkPlaceTest" tests="9" time="0.059" timestamp="2012-12-20T18:02:52">
+  <properties />
+  <testcase classname="parkPlaceTest" name="parkBoy_ShouldParkCar" time="0.0010" />
+  <testcase classname="parkPlaceTest" name="parkPlace_Parking_NoPlace" time="0.0010" />
+  <testcase classname="parkPlaceTest" name="smartParkBoy_ShouldParkCar" time="0.0" />
+  <testcase classname="parkPlaceTest" name="superParkBoy_ShouldParkCar" time="0.0" />
+  <testcase classname="parkPlaceTest" name="parkPlace_GetCar_NoThisCar" time="0.0" />
+  <testcase classname="parkPlaceTest" name="parkPlace_ShowAvailableNum" time="0.0" />
+  <testcase classname="parkPlaceTest" name="parkPlace_GetCar" time="0.0" />
+  <testcase classname="parkPlaceTest" name="parkPlace_Parking_HavePlace" time="0.0010" />
+  <testcase classname="parkPlaceTest" name="parkBoy_ShouldGetParkedCar" time="0.0" />
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
