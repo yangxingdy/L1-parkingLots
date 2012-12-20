@@ -7,7 +7,7 @@ parkManager
 
 parkDirector
 
-1.Add new class "ParkingDirector"
-2.parkingDirector can show parkingLots which are managed by all the managers and parkingboys.
-  2.1 parkingManager shows parkingLots which are managed by parkingBoys.
-  2.2 parkingManager shows parkingLots which are managed by himself.
+3.Add new class "ParkingDirector"
+4.parkingDirector can show parkingLots which are managed by all the managers and parkingboys.
+  4.1 parkingManager shows parkingLots which are managed by parkingBoys.
+  4.2 parkingManager shows parkingLots which are managed by himself.

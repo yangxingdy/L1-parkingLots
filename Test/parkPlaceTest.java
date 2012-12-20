@@ -39,7 +39,7 @@ public class parkPlaceTest {
         Assert.assertSame(car, PP.GetParkedCar(proof));
 
     }
-    @Test    ( expected = NoCarException.class)
+    @Test
     public void parkPlace_GetCar_NoThisCar() {
 
         ParkPlace  PP = new  ParkPlace(20, 1);
